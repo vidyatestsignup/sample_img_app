@@ -31,3 +31,5 @@ notifications:
  #  name:  vidyar/phpmongo:2.1
 #   net: host
  #  privileged: true
+
+cache: true
