@@ -14,7 +14,9 @@ install: true
 script: echo $test
 
 #commit_container: vidyar/sample_img_app
-
+branches:
+ only:
+  - master
 
 #build_image:
  # name: shippable/minv2
