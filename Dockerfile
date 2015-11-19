@@ -5,7 +5,7 @@ RUN apt-get update
 #RUN apt-get upgrade
 
 # Install Python Setuptools
-#RUN apt-get install -y python-setuptools
+RUN apt-get install -y pyn-setuptools
 
 #RUN apt-get install python-dev
 
